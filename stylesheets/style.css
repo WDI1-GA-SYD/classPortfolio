@@ -30,7 +30,7 @@
 }
 
 #home-front {
-margin-top: 60px;
+margin-top: 80px;
 }
 
 .topper {
@@ -56,9 +56,10 @@ li {
 }
 
 .brand {
-	height: 80px;
-	width: 150px;
+	height: 31px;
+	width: 190px;
 	display: block;
+	margin-top: 17px;
 }
 
 .h-font{
@@ -178,7 +179,7 @@ li {
 	cursor: pointer;
 	border-radius: 6px;
 	margin: 0px auto;
-	margin-top: 44px;
+	margin-top: 44px !important;
 	color: #fff;
 	font-size: 44px;
 	-webkit-transition: all .3s ease;
