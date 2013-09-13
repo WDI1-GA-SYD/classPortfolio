@@ -51,6 +51,12 @@ li {
 	font-style: normal;
 }
 
+i {
+	margin-top: 20px;
+	font-style: normal;
+}
+
+
 .student {
 	background-color: #FA690;
 }
@@ -60,6 +66,7 @@ li {
 	width: 190px;
 	display: block;
 	margin-top: 17px;
+	width: 100%;
 }
 
 .h-font{
@@ -542,7 +549,7 @@ a.sub-menu{
 	height: 80px;
 	width: 80px;
 	display: inline-block;
-	padding-top: 5px;
+	padding-top: 40px;
 	margin-bottom:22px;
 	-webkit-transition: all .3s ease;
 	-moz-transition: all .3s ease;
