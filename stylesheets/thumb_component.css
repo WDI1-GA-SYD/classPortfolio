@@ -23,7 +23,19 @@
   outline: none;
   display: block;
   position: relative;
+
 }
+
+.og-grid li > a img:hover {
+  border: none;
+  outline: none;
+  display: block;
+  position: relative;
+  opacity: 0.2;
+}
+
+
+
 
 .og-grid li.og-expanded > a::after {
   top: auto;

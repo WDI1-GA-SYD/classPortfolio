@@ -78,6 +78,8 @@ i {
 	overflow: hidden;
 }
 
+
+
 .error-box{
 	background-color: red;
 	padding: 10px;
@@ -274,6 +276,7 @@ background-color: #fff;
 	transition: all .5s ease;
 
 }
+
 
 .menu-open{
 	max-height: 800px !important;
